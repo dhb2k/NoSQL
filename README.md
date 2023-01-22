@@ -27,7 +27,7 @@ sudo apt-get install -y mongodb-org
 
 Normalement vous obtiendrez l’erreur suivante :
 
-![Erreur_observee](Untitled.png)
+![Erreur_observee](img/Untitled.png)
 
 Ci ce n’est pas le cas, inutile de poursuivre, je n’ai pas d’autre solution que de vous conseiller de passer des heures de recherche entre YouTube et Google.
 
@@ -37,7 +37,7 @@ Si cependant, vous avez cette erreur, alors j’ai la solution pour vous. Mais a
 openssl version 
 ```
 
-![Version_openssl](Untitled 1.png)
+![Version_openssl](img/'Untitled 1.png')
 
 Si toutes les conditions précédentes sont réunis alors les commandes qui suivent permettront d’installer la version 1.1 de OpenSSL
 
