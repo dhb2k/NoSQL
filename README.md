@@ -37,7 +37,7 @@ Si cependant, vous avez cette erreur, alors j’ai la solution pour vous. Mais a
 openssl version 
 ```
 
-![Version_openssl](img/'Untitled 1.png')
+![Version_openssl](img/Untitled_1.png)
 
 Si toutes les conditions précédentes sont réunis alors les commandes qui suivent permettront d’installer la version 1.1 de OpenSSL
 
