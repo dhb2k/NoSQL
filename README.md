@@ -8,7 +8,7 @@ lsb_release -a
 
 La recommandation que je fais est d’installer MongoDB Community Edition disponible au lien ci dessous
 
-[Installation de MongoDB sur Ubuntu 22.04](https://www.notion.so/Installation-de-MongoDB-sur-Ubuntu-22-04-fd63bcc968604b36aa6a6a8db9c524ce)
+[Installation de MongoDB sur Ubuntu 22.04](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-ubuntu/)
 
 Les principales étapes de l’installation de MongoDB sont les suivantes :
 
@@ -27,7 +27,7 @@ sudo apt-get install -y mongodb-org
 
 Normalement vous obtiendrez l’erreur suivante :
 
-![Untitled](Installation%20de%20MongoDB%20sur%20Ubuntu%2022%2004%20fd63bcc968604b36aa6a6a8db9c524ce/Untitled.png)
+![Erreur_observee](Untitled.png)
 
 Ci ce n’est pas le cas, inutile de poursuivre, je n’ai pas d’autre solution que de vous conseiller de passer des heures de recherche entre YouTube et Google.
 
@@ -37,7 +37,7 @@ Si cependant, vous avez cette erreur, alors j’ai la solution pour vous. Mais a
 openssl version 
 ```
 
-![Untitled](Installation%20de%20MongoDB%20sur%20Ubuntu%2022%2004%20fd63bcc968604b36aa6a6a8db9c524ce/Untitled%201.png)
+![Version_openssl](Untitled 1.png)
 
 Si toutes les conditions précédentes sont réunis alors les commandes qui suivent permettront d’installer la version 1.1 de OpenSSL
 
